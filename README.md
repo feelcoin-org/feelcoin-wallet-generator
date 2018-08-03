@@ -1,6 +1,6 @@
 # 2ACoin-Paper #
 
-This is a simple paper wallet implementation for 2ACoin. Placed on a server that can generate and present web pages this application will generate a paper 2ACoin wallet.  
+This is a simple Paper Wallet implementation for 2ACoin. When placed on a server that can generate and present web pages, this application will generate a paper 2ACoin wallet.  
 
 ## About ##
 
