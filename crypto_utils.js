@@ -1624,11 +1624,11 @@ return{_strlen:lb,_ge_mul8:Va,_keccak:db,_ge_scalarmult:Ta,_ge_fromfe_frombytes_
 
 var salt = 'aa21789fee2db41e1f2fc50ea9f6d7ff'; // IMPORTANT: never change it, otherwise it will be impossible to restore previously generated wallets!
 var config = {
-    coinUnitPlaces: 8,
-    coinSymbol: 'ARMS',
-    coinName: '2ACoin',
-    coinUriPrefix: '2acoin:',
-    addressPrefix: 0x1fcdee
+    coinUnitPlaces: 3,
+    coinSymbol: 'FEEL',
+    coinName: 'Feelcoin',
+    coinUriPrefix: 'fEEL:',
+    addressPrefix: 0x1c6e4
 };
 var cnUtil = (function(initConfig) {
     //var config = $.extend({}, initConfig);
